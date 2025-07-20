@@ -26,7 +26,7 @@ The Iris dataset is built into `scikit-learn` and consists of:
 - 4 features
 - 3 classes (species)
 
-You can also [learn more about the dataset here](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html).
+You can also https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 ---
 
