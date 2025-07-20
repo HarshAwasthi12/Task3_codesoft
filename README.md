@@ -2,6 +2,7 @@
 
 The **Iris Flower Classification** project is a classic machine learning example that demonstrates supervised classification using the well-known **Iris dataset**. The goal is to classify iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — based on measurements of their sepals and petals.
 
+Collab: https://colab.research.google.com/drive/1lHqmxo_De0n24wV8tthY62WV-OsCpMYm?usp=sharing
 ---
 
 ## 📌 Project Overview
@@ -26,7 +27,7 @@ The Iris dataset is built into `scikit-learn` and consists of:
 - 4 features
 - 3 classes (species)
 
-You can also https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+You can also (https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
 ---
 
